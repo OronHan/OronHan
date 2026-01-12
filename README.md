@@ -9,4 +9,4 @@ This GitHub highlights the structure and impact of selected data science project
 
 ## Personal Projects
 
-* **[OpeningTrainer](https://github.com/oronhan/opening-trainer)**: A web-based application designed to help chess players learn, practice, and test themselves on opening repertoires from PGN files. Built as a personal tool to memorize opening lines, with full code and implementation available.
+* **[OpeningTrainer](https://github.com/oronhan/openingtrainer)**: A web-based application designed to help chess players learn, practice, and test themselves on opening repertoires from PGN files. Built as a personal tool to memorize opening lines, with full code and implementation available.
